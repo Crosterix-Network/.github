@@ -17,4 +17,4 @@
 - **Stealth Address Payments (PrivatePay)** — Meta Address → one-time stealth receivers (Receive / Send / Claim)
 - **Encrypted File Sharing** — client-side encryption + **Shared View Key**
 - **Privacy Tools** — Privacy Score, TX Analyzer, **Burner Wallet**, Address Relationship Checker
-- **Private Swap** — Normal vs Private; route output ke stealth address
+- **Private Swap** — Normal vs Private; route output ke stealth address 
