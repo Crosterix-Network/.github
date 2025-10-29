@@ -28,8 +28,7 @@ Crosterix builds **privacy utilities** for Solana & EVM:
 - **Docs:** https://docs.crosterix.network  
 - **X/Twitter:** https://x.com/crosterix
 
-## Visual Snapshot
-> Cuplikan materi untuk konteks brand & fitur (non-final; akan diperbarui seiring rilis).
+## Snapshot
 
 <p align="center">
   <img src="https://i.imgur.com/KjxdhJW.jpeg" alt="Crosterix Content 1" width="49%" />
@@ -37,9 +36,6 @@ Crosterix builds **privacy utilities** for Solana & EVM:
 </p>
 
 ## Contributing
-- Use **Conventional Commits** (`feat:`, `fix:`, `docs:`, `chore:`).
-- PR masuk ke `develop`, lalu di-merge ke `main` via review.
-- Laporkan security issue secara privat: **security@crosterix.network**.
-
-## License
-Apache-2.0
+- Follow **Conventional Commits** (`feat:`, `fix:`, `docs:`, `chore:`).
+- Open PRs to `develop`, then merge to `main` after review.
+- Report security issues privately: **security@crosterix.network**.
