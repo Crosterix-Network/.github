@@ -1,0 +1,21 @@
+name: 🐞 Bug Report
+description: Report a reproducible bug in Crosterix
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Expected vs actual behavior
+      placeholder: "When sending PrivatePay, transaction failed..."
+    validations: { required: true }
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1) ... 2) ... 3) ..."
+  - type: textarea
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "Browser, OS, wallet, network..."
