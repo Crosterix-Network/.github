@@ -1,0 +1,23 @@
+name: 🚀 Feature Request
+description: Suggest a new feature or enhancement for Crosterix
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem or limitation are you trying to solve?
+      placeholder: "Example: Users cannot verify private transactions without exposing wallet..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: How should it work?
+      placeholder: "Implement ZK verification layer for proof of transfer"
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      placeholder: "References, screenshots, or examples"
