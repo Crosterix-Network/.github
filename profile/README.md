@@ -26,7 +26,7 @@ Crosterix builds **privacy utilities** for Solana & EVM:
 ## Quick Links
 - **App:** https://app.crosterix.network  
 - **Docs:** https://docs.crosterix.network  
-- **X/Twitter:** https://x.com/crosterix
+- **X/Twitter:** https://x.com/crosterixhub
 
 ## Snapshot
 
